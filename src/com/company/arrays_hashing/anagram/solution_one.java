@@ -1,6 +1,5 @@
-package com.company.anagram;
+package com.company.arrays_hashing.anagram;
 import java.util.Arrays;
-import java.util.Collections;
 
 public class solution_one {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.company.contains_duplicate;
+package com.company.arrays_hashing.contains_duplicate;
 
 import java.util.HashSet;
 // This code TLE
